@@ -1,0 +1,5 @@
+mcp>=1.30,<2
+requests>=2.32
+uvicorn>=0.30
+youtube-transcript-api>=1.2.4
+yt-dlp>=2026.8.19
